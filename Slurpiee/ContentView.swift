@@ -51,6 +51,7 @@ struct ContentView: View {
                 .aspectRatio(contentMode: .fit)
             
             Spacer()
+            //Spacer()
             
             Button(action: {
                 if isPlaying {
